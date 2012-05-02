@@ -1,2 +1,2 @@
-bbxplugin
-=========
+vim-bbxplugin
+=============
